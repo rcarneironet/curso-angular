@@ -1,0 +1,31 @@
+{
+  "bandas": [
+    {
+      "id": "linkin-park",
+      "nome": "Linkin Park",
+      "anoFundacao": 1996,
+      "integrantes": "Mike Shinoda, Rob Bourdon, Brad Delson, Dave Farrell, Joe Han, Mark Wakefield, Chester Bennington",
+      "albuns": "Hybrid Theory, Meteora, Minutes do Midnight, A thousand suns, Living things, The huting party, One more light",
+	  "imagem": "assets/img/linkin-park.jpg",
+      "detalhes": "A banda alcançou o sucesso internacional em 2000 com seu álbum Hybrid Theory que chegou em segundo lugar na Billboard 200 e chegaria, em 2009, a marca de 24 milhões de cópias vendidas pelo mundo!"
+    },
+    {
+      "id": "system-of-a-down",
+      "nome": "System of a Down",
+      "anoFundacao": 1994,
+      "integrantes": "Serj Tankian, Daron Malakian, Shavo Odadjian, John Dolmayan",
+      "albuns": "System of a Down, Toxicity, Mezmerize, Hypnotize",
+	  "imagem": "assets/img/soad.jpg",
+      "detalhes": "O System of a Down usa uma grande variedade de instrumentos, incluindo guitarra barítona, mandolins elétricos, cítaras, violões de doze cordas entre outros instrumentos orientais. Suas principais influências são as bandas mais antigas de rock alternativo, como por exemplo Nomeansno e principalmente Faith No More!"
+    },
+    {
+      "id": "metallica",
+      "nome": "Metallica",
+      "anoFundacao": 1981,
+      "integrantes": "James Hetfield, Lars Ulrich, Kirk Hammet, Robert Trujillo",
+      "albuns": "Kill em all, Ride the Lightning, Master of puppets",
+	  "imagem": "assets/img/metallica.jpg",
+      "detalhes": "Metallica é uma banda norte-americana de heavy metal originaria de Los Angeles, mas com base em San Francisco. O seu repertório inclui tempos rápidos, pesados, melodicos, instrumentais, e musicalidade agressiva, a qual os colocou no lugar de pioneiros do thrash metal e uma das bandas fundadoras do Big Four of Thrash!"
+    }	
+  ]
+}
